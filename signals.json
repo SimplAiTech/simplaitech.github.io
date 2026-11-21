@@ -1,0 +1,76 @@
+{
+ "updated": "2026-11-20 23:31",
+ "from": "Nov 09",
+ "to": "Nov 20, 2026",
+ "days": 10,
+ "trades": 155,
+ "winrate": 50,
+ "pf": 1.74,
+ "net_usd_001": 628.98,
+ "last": [
+  {
+   "time": "Nov 20 \u00b7 10:33",
+   "side": "SELL",
+   "entry": 3547.5,
+   "stop": 3571.21,
+   "exit": 3561.43,
+   "usd": -13.93
+  },
+  {
+   "time": "Nov 20 \u00b7 09:31",
+   "side": "SELL",
+   "entry": 3573.22,
+   "stop": 3591.35,
+   "exit": 3561.44,
+   "usd": 11.78
+  },
+  {
+   "time": "Nov 19 \u00b7 11:28",
+   "side": "SELL",
+   "entry": 3680.01,
+   "stop": 3695.84,
+   "exit": 3689.85,
+   "usd": -9.84
+  },
+  {
+   "time": "Nov 19 \u00b7 10:41",
+   "side": "SELL",
+   "entry": 3691.45,
+   "stop": 3714.47,
+   "exit": 3628.16,
+   "usd": 63.29
+  },
+  {
+   "time": "Nov 19 \u00b7 10:41",
+   "side": "SELL",
+   "entry": 3691.45,
+   "stop": 3714.47,
+   "exit": 3688.84,
+   "usd": 2.61
+  },
+  {
+   "time": "Nov 19 \u00b7 10:40",
+   "side": "SELL",
+   "entry": 3689.12,
+   "stop": 3704.47,
+   "exit": 3675.68,
+   "usd": 13.44
+  },
+  {
+   "time": "Nov 19 \u00b7 10:21",
+   "side": "SELL",
+   "entry": 3700.13,
+   "stop": 3707.34,
+   "exit": 3689.32,
+   "usd": 10.81
+  },
+  {
+   "time": "Nov 18 \u00b7 09:00",
+   "side": "SELL",
+   "entry": 3785.55,
+   "stop": 3798.13,
+   "exit": 3735.26,
+   "usd": 50.29
+  }
+ ]
+}

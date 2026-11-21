@@ -1,0 +1,59 @@
+# ARGUS V9 — Algorithmic Trading System by Simplai.tech
+
+## What is ARGUS?
+
+ARGUS is an autonomous algorithmic trading system for MetaTrader 5 (MT5), built by Simplai.tech. It runs 10 battle-tested trading strategies 24/5 with zero manual intervention. The name comes from Argus Panoptes — the all-seeing giant of Greek mythology.
+
+## Key Facts
+
+- **Creator**: Simplai.tech
+- **Platform**: MetaTrader 5 (MT5)
+- **Strategies**: 10 proprietary strategies (trend-following, mean reversion, scalping, multi-session)
+- **AI Component**: ML signal validation model (AUC 0.773) trained on 17,965 real trades
+- **Backtest Result**: +331% over 3 years (verified MT5 Strategy Tester)
+- **Live Performance**: Profit Factor 1.28, net profit +$5,090 on verified live account
+- **Risk Management**: Dynamic lot sizing, drawdown protection, configurable RR ratios
+- **News Guard**: Automatic trading pause before high-impact economic events
+- **Session Intelligence**: Asia / London / New York session classification with session-specific activation
+- **Notifications**: Real-time Telegram alerts for every trade entry, exit, and system event
+- **Backtest Suite**: Full historical testing with Monte Carlo simulation, Sharpe ratio, PDF reports
+
+## Products
+
+### ARGUS Lite — $20 one-time
+- Entry-level access
+- Single MT5 account connection
+- Core strategy set
+- Buy: https://buy.stripe.com/fZubIU2KoaDIcnK36Y87K0e
+
+### ARGUS Pro — Contact for pricing
+- Full 10-strategy suite
+- Multi-account execution
+- AI Signal Validator
+- Full backtest suite
+- Dedicated onboarding call
+- Contact: https://simplaitech.github.io/#contact
+
+## Contact
+
+- Website: https://simplaitech.github.io
+- Email: yevhen.hladchenko1@gmail.com
+- Contact form: https://simplaitech.github.io/#contact
+
+## Frequently Asked Questions
+
+**Do I need trading experience?**
+No. ARGUS handles signal generation, validation, and execution automatically. A setup call is included with every plan.
+
+**Which brokers are supported?**
+Any MT5-compatible broker. ARGUS connects via the standard MT5 terminal.
+
+**Is performance guaranteed?**
+No. Past performance does not guarantee future results. All performance figures are real but historical.
+
+**How quickly can I start?**
+After payment, setup takes under 48 hours including the onboarding call.
+
+## About Simplai.tech
+
+Simplai.tech builds AI-powered automation systems for quantitative trading and business process optimization.
